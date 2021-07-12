@@ -48,4 +48,3 @@ print(sim) ## imprime o resultado
 ## Assim podemos fazer a recomendação
 ## A ideia é que a vaga tenha também um vetor com os ids os valores assim como os usuarios e usando a logica desse código
 ## podemos fazer a combinação entre a vaga e o candidato, algo do gênero "ter duas das 3 caracteristicas necessarias"
-## 
